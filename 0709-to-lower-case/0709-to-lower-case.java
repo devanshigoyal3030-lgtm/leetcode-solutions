@@ -1,6 +1,7 @@
 class Solution {
     public String toLowerCase(String s) {
-        return s.toLowerCase();
+        String p=s.toLowerCase();
+        return p;
 
         
         
