@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Greedy
 |  |
 | ------- |
