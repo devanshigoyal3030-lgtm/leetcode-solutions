@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
