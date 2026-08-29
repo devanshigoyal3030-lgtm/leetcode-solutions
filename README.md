@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
+| [3146-permutation-difference-between-two-strings](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Stack
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Hash Table
+|  |
+| ------- |
+| [3146-permutation-difference-between-two-strings](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 <!---LeetCode Topics End-->
