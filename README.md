@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
 | ------- |
