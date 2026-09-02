@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
@@ -82,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3146-permutation-difference-between-two-strings](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Dynamic Programming
