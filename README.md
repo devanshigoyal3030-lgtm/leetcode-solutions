@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
 | [3146-permutation-difference-between-two-strings](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Stack
@@ -83,9 +84,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3146-permutation-difference-between-two-strings](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Dynamic Programming
 |  |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
