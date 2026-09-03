@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
