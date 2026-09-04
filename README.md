@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
