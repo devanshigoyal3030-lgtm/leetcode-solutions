@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
