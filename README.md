@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [1025-divisor-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
