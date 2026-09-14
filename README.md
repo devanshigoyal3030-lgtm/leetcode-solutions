@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0836-rectangle-overlap](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2974-minimum-number-game) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
