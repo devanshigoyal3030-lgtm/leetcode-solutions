@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3146-permutation-difference-between-two-strings](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Dynamic Programming
