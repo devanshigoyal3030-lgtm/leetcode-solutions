@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1652-defuse-the-bomb](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
