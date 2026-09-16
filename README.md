@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1652-defuse-the-bomb](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
+| [1833-maximum-ice-cream-bars](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -99,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2974-minimum-number-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1833-maximum-ice-cream-bars](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
