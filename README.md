@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
