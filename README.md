@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
