@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
