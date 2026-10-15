@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1927-sum-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1927-sum-game) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
