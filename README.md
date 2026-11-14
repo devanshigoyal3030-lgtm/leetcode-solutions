@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3866-first-unique-even-element](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3146-permutation-difference-between-two-strings](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3866-first-unique-even-element](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3866-first-unique-even-element](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Simulation
 |  |
 | ------- |
