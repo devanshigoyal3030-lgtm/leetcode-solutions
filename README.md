@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2390-removing-stars-from-a-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Stack
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
