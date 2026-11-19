@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -244,4 +246,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
