@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -231,12 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## String Matching
 |  |
