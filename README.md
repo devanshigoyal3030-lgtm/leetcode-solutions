@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0456-132-pattern](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0456-132-pattern](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0456-132-pattern) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +251,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/devanshigoyal3030-lgtm/leetcode-solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
